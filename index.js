@@ -16,7 +16,7 @@ say('Tyraxes\nBot', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`Sting Like A Bee`, {
+say(`Developed by Arlodragon`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
