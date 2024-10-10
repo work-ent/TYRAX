@@ -1,0 +1,56 @@
+                "▢ *Warning:*",
+                "\n▢ *Reason:*",
+                "▢ *Reason:* Not specified",
+                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] If you believe this is an error and have evidence, you can contact the bot owner to appeal the suspension.*"
+            ],
+            "texto2": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Your diamonds have run out, you can acquire more with the command:*",
+            "texto3": [
+                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] It's necessary to have level",
+                "to use the command. Your current level is",
+                "use the command",
+                "to increase your level with XP.*"
+            ],
+            "texto4": [
+                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ]",
+                "diamond(s) used (limits).*"
+            ]
+        },
+        "dfail": {
+            "texto1": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used by the bot owner.*",
+            "texto2": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used by the bot owner.*",
+            "texto3": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used by moderators and the bot owner.*",
+            "texto4": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used by premium users and the bot owner.*",
+            "texto5": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used in groups.*",
+            "texto6": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used in the bot's private chat.*",
+            "texto7": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used by group administrators.*",
+            "texto8": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] To use this command, the bot must be a group administrator.*",
+            "texto9": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] To use this command, you must be registered.*\n\n*[ 💡 ] Use the command:* /verify name.age to register.",
+            "texto10": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command has been disabled by the bot owner.*",
+            "texto11": [
+                "[ ⚠️ ] TYRAXES-𝐁𝐨𝐭 🔥",
+                "[ ⚠️ ] 🔥 TYRAXES-𝐁𝐨𝐭🔥",
+                "https://github.com/Kingdragony"
+            ]
+        },
+        "participantsUpdate": {
+            "texto1": "👋 Welcome!\n@user",
+            "texto2": "👋 Goodbye!\n@user",
+            "texto3": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] @user has been promoted to administrator.*",
+            "texto4": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] @user has been demoted from administrator.*",
+            "texto5": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The group description has been modified.*",
+            "texto6": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The group name has been modified.*",
+            "texto7": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The group profile picture has been changed.*",
+            "texto8": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The group invite link has been reset.*"
+        },
+        "deleteUpdate": {
+            "texto1": [
+                "< ANTI-DELETE />\n",
+                " ▢ User:",
+                " ▢ Time:",
+                "▢ Date:",
+                "▢ Sending the deleted message...\n",
+                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] To disable the antidelete feature, send the following command: /disable antidelete*"
+            ]
+        }
+    }
+}
