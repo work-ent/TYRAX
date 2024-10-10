@@ -22,7 +22,7 @@ const configuration = new Configuration({organization: global.openai_org_id, api
 const openaiii = new OpenAIApi(configuration);
 const idioma = 'en'
 //const sistema1 = await fetch(`https://raw.githubusercontent.com/Skidy89/chat-gpt-jailbreak/main/Text.txt`).then(v => v.text());
-const sistema1 = `A whatsapp bot created by Khalid official `;
+const sistema1 = `A whatsapp bot created by Arlodragon `;
 const handler = async (m, {conn, text, usedPrefix, command}) => {
   if (usedPrefix == 'a' || usedPrefix == 'A') return;
   if (!text) throw `https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q *[❗] Insert a button to make the command function*\n\n*—◉ Example:*\n*◉ ${usedPrefix + command} when did world war one start?*\n*◉ ${usedPrefix + command} js code for chess game*`;
