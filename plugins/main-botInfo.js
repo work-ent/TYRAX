@@ -61,7 +61,7 @@ let infobt = `[𝕬𝖗𝖑𝖔𝖉𝖗𝖆𝖌𝖔𝖓 𝖎𝖓𝖋𝖔]
  
   *≡ HELPERS* *CRISS*
 🇰🇪 WhatsApp : wa.me/254702713600
-   khalid+TECHNOLOGY 
+   彡𝘼𝙍𝙇𝙊𝘿𝙍𝘼𝙂𝙊𝙉 𝙏𝙀𝘾𝙃彡 
 🇰🇪 WhatsApp : wa.me/254746764468
 
   *≡ S E R V E R*
