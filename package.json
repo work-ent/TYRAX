@@ -18,16 +18,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/khalid-official/BUMBLEBEE-BOT",
+  "homepage": "https://github.com/Kingdragony/TYRAX",
   "author": {
     "name": "Arlodragon"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khalid-official/BUMBLEBEE-BOT.git"
+    "url": "git+https://github.com/Kingdragony/TYRAX.git"
   },
   "bugs": {
-    "url": "https://github.com/khalid-official/BUMBLEBEE-BOT/issues"
+    "url": "https://github.com/Kingdragony/TYRAX/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
