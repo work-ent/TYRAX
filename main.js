@@ -122,7 +122,7 @@ if (!methodCodeQR && !methodCode && !fs.existsSync(`./${authFile}/creds.json`)) 
 do {
 option = await question('[ ℹ️ ] Select an option:\n1. With QR code\n2. With 8-digit text code\n---> ')
 if (!/^[1-2]$/.test(opcion)) {
-console.log('[ ❗ ] Please select only 1 or 2.\n')
+console.log('[ 🇰🇪 ] Please select only 1 or 2.\n')
 }} while (opcion !== '1' && opcion !== '2' || fs.existsSync(`./${authFile}/creds.json`))
 }
 
@@ -529,7 +529,7 @@ setInterval(async () => {
   if (stopped === 'close' || !conn || !conn.user) return;
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `[❗𝐈𝐍𝐅𝐎❗] 🐝 ᴀᴄᴛɪᴠᴇ ᴛɪᴍᴇ: ${uptime} 🍯ꜱᴛɪɴɢ ʟɪᴋᴇ🐝 ᴀ ʙᴇᴇ💖`;
+  const bio = `[彡𝙏𝙔𝙍𝘼𝙓𝙀𝙎彡] 🪀 𝙥𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝘼𝙧𝙡𝙤𝙙𝙧𝙖𝙜𝙤𝙣: ${uptime} 𝙏𝙃𝙀𝙀 𝙈𝙊𝙎𝙏 𝙃𝙄𝙂𝙃`;
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
