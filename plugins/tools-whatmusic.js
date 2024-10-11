@@ -30,7 +30,7 @@ const handler = async (m, { conn }) => {
     const { title, subtitle, artists, genres, images } = recognise.track;
     const apiTitle = `${title} - ${subtitle || ''}`.trim();
 
-    let ytUrl = 'https://github.com/BrunoSobrino';
+    let ytUrl = 'https://github.com/Kingdragony/TYRAX';
     try {
       const searchResult = await ytSearch(apiTitle);
       if (searchResult && searchResult.videos.length > 0) {
@@ -40,7 +40,7 @@ const handler = async (m, { conn }) => {
       console.error(error);
     }
 
-    const texto = `https://github.com/Khalid-official ${traductor.texto3[0]}\n\n${traductor.texto3[1]} ${title || traductor.texto2}\n${traductor.texto3[2]} ${subtitle || traductor.texto2}\n${traductor.texto3[4]} ${genres.primary || traductor.texto2}`;
+    const texto = `https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q ${traductor.texto3[0]}\n\n${traductor.texto3[1]} ${title || traductor.texto2}\n${traductor.texto3[2]} ${subtitle || traductor.texto2}\n${traductor.texto3[4]} ${genres.primary || traductor.texto2}`;
     const imagen = await (await fetch(images.coverart)).buffer();
     
     conn.sendMessage(m.chat, { text: texto.trim(), contextInfo: { forwardingScore: 9999999, isForwarded: true, externalAdReply: { showAdAttribution: true, containsAutoReply: true, renderLargerThumbnail: true, title: apiTitle, mediaType: 1, thumbnail: imagen, thumbnailUrl: imagen, mediaUrl: ytUrl, sourceUrl: ytUrl }}}, { quoted: m });
