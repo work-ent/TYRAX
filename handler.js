@@ -644,9 +644,9 @@ export async function handler(chatUpdate) {
           sBye: '',
           sPromote: '',
           sDemote: '',
-          antidelete: false,
+          antidelete: true,
           modohorny: true,
-          autosticker: false,
+          autosticker: true,
           audios: true,
           antiBot: true,
           antiBot2: true,
@@ -671,7 +671,7 @@ export async function handler(chatUpdate) {
         if (!('autoread2' in settings)) settings.autoread2 = true;
         if (!('restrict' in settings)) settings.restrict = true;
         if (!('antiCall' in settings)) settings.antiCall = false;
-        if (!('antiPrivate' in settings)) settings.antiPrivate = false;
+        if (!('antiPrivate' in settings)) settings.antiPrivate = true;
         if (!('antiZimbabwe' in settings)) settings.antiBot = true;
 	if (!('modejadibot' in settings)) settings.modejadibot = true;
         if (!('antispam' in settings)) settings.antispam = true;
@@ -1120,7 +1120,7 @@ export async function participantsUpdate({ id, participants, action }) {
       if (chat.welcome && !chat?.isBanned) {
         const groupMetadata = await m?.conn?.groupMetadata(id) || (conn?.chats[id] || {}).metadata;
         for (const user of participants) {
-          let pp = 'https://raw.githubusercontent.com/khalid-official/BUMBLEBEE-BOT/master/src/avatar_contact.png';
+          let pp = 'https://raw.githubusercontent.com/kingdragony/TYRAX/master/src/avatar_contact.png';
           try {
             pp = await m.conn.profilePictureUrl(user, 'image');
           } catch (e) {
