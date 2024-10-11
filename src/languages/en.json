@@ -1,37 +1,37 @@
 {
     "___creditos": {
-        "___Contribuidor": "https://github.com/jeffersonalionco",
-        "___Criador": "https://github.com/Khalid-Official"
+        "___Contribuidor": "https://github.com/Kingdragony/TYRAX",
+        "___Criador": "https://github.com/Kingdragony/TYRAX"
     },
     "plugins": {
         "antiarab": {
-            "texto1": "_*< ANTI-ARABS />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] In this group, numbers starting with +212 are not allowed. Therefore, you will be removed from the group.*",
-            "texto2": "_*< ANTI-ARABS />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] In this group, numbers starting with +265 are not allowed. Therefore, you will be removed from the group.*",
-            "texto3": "_*< ANTI-ARABS />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] In this group, numbers starting with +92 are not allowed. Therefore, you will be removed from the group.*"
+            "texto1": "_*< ANTI-ARABS />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] In this group, numbers starting with +212 are not allowed. Therefore, you will be removed from the group.*",
+            "texto2": "_*< ANTI-ARABS />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] In this group, numbers starting with +265 are not allowed. Therefore, you will be removed from the group.*",
+            "texto3": "_*< ANTI-ARABS />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] In this group, numbers starting with +92 are not allowed. Therefore, you will be removed from the group.*"
         },
         "_antilink": {
-            "texto1": "*< ANTI-LINK />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Antilink is enabled, but the participant who sent the link is an administrator.*",
-            "texto2": "_*< ANTI-LINK />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Participant @user sent a link to a WhatsApp group, so they will be removed.*",
-            "texto3": "_*< ANTI-LINK />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] For antilink to work correctly, the bot must be an administrator of the group.*",
-            "texto4": "_*< ANTI-LINK />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This feature is disabled because the* _restrict_ *feature is enabled.*"
+            "texto1": "*< ANTI-LINK />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] Antilink is enabled, but the participant who sent the link is an administrator.*",
+            "texto2": "_*< ANTI-LINK />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] Participant @user sent a link to a WhatsApp group, so they will be removed.*",
+            "texto3": "_*< ANTI-LINK />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] For antilink to work correctly, the bot must be an administrator of the group.*",
+            "texto4": "_*< ANTI-LINK />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀] This feature is disabled because the* _restrict_ *feature is enabled.*"
         },
         "_antilink2": {
-            "texto1": "_*< ANTI-LINK 2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Participant @user sent a link to a WhatsApp group, so they will be removed.*",
-            "texto2": "_*< ANTI-LINK 2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] For antilink to work correctly, the bot must be an administrator of the group.*",
-            "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This feature is disabled because the* _restrict_ *feature is enabled.*"
+            "texto1": "_*< ANTI-LINK 2 />*_\n\n*[ 🪀𝐀𝐋𝐄𝐑𝐓 🪀 ] Participant @user sent a link to a WhatsApp group, so they will be removed.*",
+            "texto2": "_*< ANTI-LINK 2 />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] For antilink to work correctly, the bot must be an administrator of the group.*",
+            "texto3": "_*< ANTI-LINK 2 />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This feature is disabled because the* _restrict_ *feature is enabled.*"
         },
         "_antiprivado": {
-            "texto1": "_*< ANTI-PRIVATE />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The antiprivate function is enabled, so you will be blocked.*"
+            "texto1": "_*< ANTI-PRIVATE />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] The antiprivate function is enabled, so you will be blocked.*"
         },
         "_antitoxic": {
-            "texto1": "_*< ANTI-TOXIC />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] ",
+            "texto1": "_*< ANTI-TOXIC />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] ",
             "texto1_1": " send the word ",
             "texto1_2": " is prohibited in this group.\n\n▢ *Warning:* ",
-            "texto2": "_*< ANTI-TOXIC />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Participant ",
+            "texto2": "_*< ANTI-TOXIC />*_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] Participant ",
             "texto2_1": " has exceeded 5 warnings, so you will be expelled from the group.*"
         },
         "_antitrabas": {
-            "texto1": "< ANTI-BARRIERS />_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Administrator ",
+            "texto1": "< ANTI-BARRIERS />_\n\n*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀] Administrator ",
             "texto1_1": " sent a message that contains too many characters.* ",
             "texto2": "[ ! ] A message containing too many characters was detected [ ! ]\n",
             "texto2_1": " I'm not an administrator, I can't do anything :/ ",
@@ -542,27 +542,27 @@
         },
         "descargas_play_v2": {
             "texto1": [
-                "_*< 🎶🐝 𝗕𝗘𝗘 𝗠𝗨𝗦𝗜𝗖🎶 v2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The YouTube video title is missing.*\n\n*[ 💡 ] Example:*",
+                "_*< 🎶🐝 TYRAXES 🎶 v2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The YouTube video title is missing.*\n\n*[ 💡 ] Example:*",
                 "Good Feeling - Flo Rida_\n\n*[ 💡 ] Example 2:*"
             ],
-            "texto2": "_*< 🎶🐝 𝗕𝗘𝗘 𝗠𝗨𝗦𝗜𝗖🎶 V2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
-            "texto3": "_*< 🎶🐝 𝗕𝗘𝗘 𝗠𝗨𝗦𝗜𝗖🎶 V2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
+            "texto2": "_*< 🎶🐝 TYRAXES 🎶 V2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
+            "texto3": "_*< 🎶🐝 TYRAXES 🎶 V2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
             "texto4": [
-                "_*< 🎶🐝 𝗕𝗘𝗘 𝗠𝗨𝗦𝗜𝗖🎶 V2 />*_\n\n▢ *Title:* ",
+                "_*< 🎶🐝 TYRAXES 🎶 V2 />*_\n\n▢ *Title:* ",
                 "▢ 📆 *𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱:*",
                 "▢ ⏯️ *C𝗵𝗮𝗻𝗻𝗲𝗹:* ",
                 "▢ 🔗 *L𝗶𝗻𝗸:*:*"
             ],
-            "texto5": "_*< 🎶🐝 𝗕𝗘𝗘 𝗠𝗨𝗦𝗜𝗖🎶 V2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
-            "texto6": "_*< 🎶🐝 𝗕𝗘𝗘 𝗠𝗨𝗦𝗜𝗖🎶 V2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*"
+            "texto5": "_*< 🎶🐝 TYRAXES 🎶 V2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
+            "texto6": "_*< 🎶🐝 TYRAXES 🎶 V2 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*"
         },
         "descargas_play": {
             "texto1": [
-                "_*< 🎶🐝 𝗕𝗘𝗘 𝗠𝗨𝗦𝗜𝗖🎶 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The YouTube video title or link is missing.*\n\n*[ 💡 ] Example:*",
+                "_*< 🎶🐝 TYRAXES 🎶 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The YouTube video title or link is missing.*\n\n*[ 💡 ] Example:*",
                 "Good Feeling - Flo Rida_"
             ],
             "texto2": [
-                "_*< 🎶🐝 𝗕𝗘𝗘 𝗠𝗨𝗦𝗜𝗖🎶 />*_\n\n▢ *📌 *𝗧𝗶𝘁𝗹𝗲:*",
+                "_*< 🎶 TYRAXES 🎶 />*_\n\n▢ *📌 *𝗧𝗶𝘁𝗹𝗲:*",
                 "▢ 📆 *𝗽𝘂𝗯𝗹𝗶𝘀𝗵𝗲𝗱:* ",
                 "▢ ⌚ *Dur𝗮𝘁𝗶𝗼𝗻:*",
                 "▢ 👀 *Vi𝗲𝘄𝘀:* ",
@@ -573,9 +573,9 @@
                 "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The file is being sent, please wait...*"
             ],
             "texto3": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Download your audio at:*",
-            "texto4": "_*< 🎶🐝 𝗕𝗘𝗘 𝗠𝗨𝗦𝗜𝗖🎶 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
-            "texto5": "*_ < 🎶🐝 𝗕𝗘𝗘 𝗠𝗨𝗦𝗜𝗖🎶 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Download your video at:*",
-            "texto6": "_*< 🎶🐝 𝗕𝗘𝗘 𝗠𝗨𝗦𝗜𝗖🎶 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*"
+            "texto4": "_*< 🎶🐝 TYRAXES 🎶 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*",
+            "texto5": "*_ < 🎶🐝 TYRAXES 🎶 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] Download your video at:*",
+            "texto6": "_*< 🎶🐝 TYRAXES 🎶 />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] An error occurred. Please try again later.*"
         },
         "descargas_spotify": {
             "texto1": "_*< DOWNLOADS - SPOTIFY />*_\n\n*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The Spotify song title is missing.*\n\n*[ 💡 ] Example:*",
@@ -799,7 +799,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Enter a YouTube link.",
-            "texto2": "🤴🏻 Download by Khalid-Official & The bumblebee🐝bot-Bot-MD 🤖"
+            "texto2": "🤴🏻 Download by Arlodragon & The Tyraxes-Bot-MD 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Enter the command followed by the YouTube video link*",
@@ -856,8 +856,8 @@
         "fix_owner_esperando_mensajes": {
             "texto1": "[❗𝐈𝐍𝐅𝐎❗] Use this command directly in the main Bot number.",
             "texto2": "[❗𝐈𝐍𝐅𝐎❗] Starting the process of deleting all session files, except for creds.json...",
-            "texto3": "[❗𝐈𝐍𝐅𝐎❗] The  bumblebee🐝botSession folder does not exist or is empty.",
-            "texto4": "[❗𝐈𝐍𝐅𝐎❗] No files to delete were found in the  bumblebee🐝botSession folder.",
+            "texto3": "[❗𝐈𝐍𝐅𝐎❗] The  TyraxesbotSession folder does not exist or is empty.",
+            "texto4": "[❗𝐈𝐍𝐅𝐎❗] No files to delete were found in the  Tyraxes🪀botSession folder.",
             "texto5": [
                 "[❗𝐈𝐍𝐅𝐎❗]",
                 "session files were deleted, except for creds.json."
@@ -2188,7 +2188,7 @@
             "texto3": [
                 "*IT WAS NOT POSSIBLE TO ADD     , THIS MAY HAPPEN BECAUSE THE NUMBER IS INCORRECT, THE PERSON HAS RECENTLY LEFT THE GROUP OR THE PERSON HAS CONFIGURED THEIR GROUP PRIVACY, THE INVITATION TO THE GROUP WAS SENT TO THE USER IN THEIR PROVIDED*"
             ],
-            "texto4": "Hi!! Hello, let me introduce myself, I am The  bumblebee🐝bot - Bot and I am a Bot for WhatsApp. Someone from the group used the command to add you to the group, but I couldn't add you, so I'm sending you the invitation so you can join us. We are waiting for you!!",
+            "texto4": "Hi!! Hello, let me introduce myself, I am The  Tyraxes bot - Bot and I am a Bot for WhatsApp. Someone from the group used the command to add you to the group, but I couldn't add you, so I'm sending you the invitation so you can join us. We are waiting for you!!",
             "texto5": "*[❗] IT IS NOT POSSIBLE TO ADD THE NUMBER THAT YOU ENTERED, THIS MAY OCCUR BECAUSE THE NUMBER IS INCORRECT, THE PERSON HAS RECENTLY LEFT THE GROUP OR THE PERSON HAS CONFIGURED THEIR GROUP PRIVACY, WE ADVISE YOU TO SEND THE INVITATION MANUALLY!!*"
         },
         "gc_admins": {
@@ -2410,15 +2410,15 @@
             "texto1": [
                 "*[❗𝐈𝐍𝐅𝐎❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
             ],
-            "texto2": "You will act as a WhatsApp Bot created by Khalid-Official, you will be The  bumblebee🐝bot - Bot.",
-            "texto3": "You will act as a WhatsApp Bot created by Khalid-Official, you will be The  bumblebee🐝bot - Bot.",
+            "texto2": "You will act as a WhatsApp Bot created by Arlodragon, you will be The  TYRAXES - Bot.",
+            "texto3": "You will act as a WhatsApp Bot created by Arlodragon, you will be The  TYRAXES - Bot.",
             "texto4": "*[❗𝐈𝐍𝐅𝐎❗] Error, please try again*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗𝐈𝐍𝐅𝐎❗] You are in a conversation or order to use the chatbot function*\n\n*—◉ Examples of Petitions and Orders*\n*◉ Reflection on the Netflix series Merlin 2022*\n*◉ JS code for a card game*"
             ],
-            "texto2": "You will act as a WhatsApp Bot created by Khalid-Official, you will be The  bumblebee🐝bot - Bot.",
+            "texto2": "You will act as a WhatsApp Bot created by ARLODRAGON, you will be The  TYRAXES - Bot.",
             "texto3": "*[❗𝐈𝐍𝐅𝐎❗] Error, please try again*"
         },
         "herramientas_clima": {
@@ -2753,12 +2753,12 @@
             "texto1": [
                 "_*< INFORMATION - REPOSITORY />*_",
                 "▢ *Name:*",
-                "The bumblebee🐝bot-Bot-MD",
+                "The TYRAXES-Bot-MD",
                 "▢ *Visitors:*",
                 "▢ *Size:*",
                 "▢ *Last update:*",
                 "▢ *URL:*",
-                "https://github.com/Khalid-Official/The bumblebee🐝bot-Bot-MD",
+                "https://github.com/Kingdragony/TYRAX",
                 "Forks ·",
                 "Stars ·",
                 "Issues\n\n",
@@ -2793,7 +2793,7 @@
             "texto1": "*YOU'RE HOT 🥵🔥*"
         },
         "maker_logos": {
-            "texto1": "*[❗ℹ️] DO YOU WANT TO MAKE A LOGO?*\n—◉ _#logo (effect) (text)_\n*EXAMPLE:*\n—◉ _#logo 3d-deep-sea-metal  bumblebee🐝bot_\n\n*[❗𝐈𝐍𝐅𝐎❗] PLEASE LIST THE TEXT WHERE THE LOGO WILL BE APPLIED:*\n—◉ _#logo (effect) (text1|text2)_\n*EXAMPLE:*\n—◉ _#logo Wolf-Logo-Galaxy  bumblebee🐝bot|Bot_\n\n*<LIST OF EFFECTS/>*\n\n° 📝 #logo ",
+            "texto1": "*[❗ℹ️] DO YOU WANT TO MAKE A LOGO?*\n—◉ _#logo (effect) (text)_\n*EXAMPLE:*\n—◉ _#logo 3d-deep-sea-metal  Tyraxes bot_\n\n*[❗𝐈𝐍𝐅𝐎❗] PLEASE LIST THE TEXT WHERE THE LOGO WILL BE APPLIED:*\n—◉ _#logo (effect) (text1|text2)_\n*EXAMPLE:*\n—◉ _#logo Wolf-Logo-Galaxy  Tyraxes bot|Bot_\n\n*<LIST OF EFFECTS/>*\n\n° 📝 #logo ",
             "texto2": [
                 "*[❗ℹ️] THE EFFECT",
                 "IS NOT IN THE LIST OF EFFECTS*"
@@ -2881,7 +2881,7 @@
         },
         "menu_menu": {
             "texto1": [
-                "THE  bumblebee🐝bot - BOT",
+                "THE  TYRAXES - BOT",
                 "▢ *Hello,*",
                 "_*< YOUR STATISTICS />*_",
                 "▢ *Level:* ",
@@ -3363,7 +3363,7 @@
             "texto1": "『🚓』THE POLICE CAUGHT YOU IN THE ACT, YOU'RE IN TROUBLE, YOU LOST :",
             "texto2": [
                 "💎 Diamonds",
-                "👾  bumblebee🐝bot Coins"
+                "👾  Tyraxes bot Coins"
             ],
             "texto3": [
                 "《💰》You stole from",
@@ -3803,31 +3803,31 @@
             ]
         },
         "dfail": {
-            "texto1": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used by the bot owner.*",
-            "texto2": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used by the bot owner.*",
-            "texto3": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used by moderators and the bot owner.*",
-            "texto4": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used by premium users and the bot owner.*",
-            "texto5": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used in groups.*",
-            "texto6": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used in the bot's private chat.*",
-            "texto7": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command can only be used by group administrators.*",
-            "texto8": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] To use this command, the bot must be a group administrator.*",
-            "texto9": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] To use this command, you must be registered.*\n\n*[ 💡 ] Use the command:* /verify name.age to register.",
-            "texto10": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] This command has been disabled by the bot owner.*",
+            "texto1": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used by the bot owner.*",
+            "texto2": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used by the bot owner.*",
+            "texto3": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used by moderators and the bot owner.*",
+            "texto4": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used by premium users and the bot owner.*",
+            "texto5": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used in groups.*",
+            "texto6": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used in the bot's private chat.*",
+            "texto7": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command can only be used by group administrators.*",
+            "texto8": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] To use this command, the bot must be a group administrator.*",
+            "texto9": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] To use this command, you must be registered.*\n\n*[ 💡 ] Use the command:* /verify name.age to register.",
+            "texto10": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] This command has been disabled by the bot owner.*",
             "texto11": [
-                "[ ⚠️ ] 🐝𝐁𝐮𝐦𝐛𝐥𝐞𝐁𝐞𝐞-𝐁𝐨𝐭🐝",
-                "[ ⚠️ ] 🐝𝐁𝐮𝐦𝐛𝐥𝐞𝐁𝐞𝐞-𝐁𝐨𝐭🐝",
-                "https://github.com/Khalid-Official/BUMBLEBEE-BOT"
+                "[ 🔱 ] 🪀 TYRAXES 🪀",
+                "[ 🔱 ] 🪀 TYRAXES 🪀",
+                "https://github.com/Kingdragony/TYRAX"
             ]
         },
         "participantsUpdate": {
             "texto1": "👋 Welcome!\n@user",
             "texto2": "👋 Goodbye!\n@user",
-            "texto3": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] @user has been promoted to administrator.*",
-            "texto4": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] @user has been demoted from administrator.*",
-            "texto5": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The group description has been modified.*",
-            "texto6": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The group name has been modified.*",
-            "texto7": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The group profile picture has been changed.*",
-            "texto8": "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] The group invite link has been reset.*"
+            "texto3": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] @user has been promoted to administrator.*",
+            "texto4": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] @user has been demoted from administrator.*",
+            "texto5": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] The group description has been modified.*",
+            "texto6": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] The group name has been modified.*",
+            "texto7": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] The group profile picture has been changed.*",
+            "texto8": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] The group invite link has been reset.*"
         },
         "deleteUpdate": {
             "texto1": [
@@ -3836,7 +3836,7 @@
                 " ▢ Time:",
                 "▢ Date:",
                 "▢ Sending the deleted message...\n",
-                "*[ ⚠️ 𝐀𝐋𝐄𝐑𝐓 ⚠️ ] To disable the antidelete feature, send the following command: /disable antidelete*"
+                "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] To disable the antidelete feature, send the following command: /disable antidelete*"
             ]
         }
     }
