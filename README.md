@@ -2,14 +2,14 @@
 
 <a href="https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q"><img title="SUPPORT CHANNEL" src="https://img.shields.io/badge/SUPPORT CHANNEL-h?color=black&style=for-the-badge&logo=stacklike"></a>
 
-1.<a href="https://github.com/Kingdragony/TYRAX/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Kingdragony/TYRAX/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
-2. <a href="https://tigercodes-d2affec7cdbf.herokuapp.com/pair"><img title="PAIRING CODE" src="https://img.shields.io/badge/PAIR CODE-h?color=black&style=for-the-badge&logo=stacklike"></a>    
+<a href="https://tigercodes-d2affec7cdbf.herokuapp.com/pair"><img title="PAIRING CODE" src="https://img.shields.io/badge/PAIR CODE-h?color=black&style=for-the-badge&logo=stacklike"></a>    
   
-3.彡𝙃𝙀𝙍𝙊𝙆𝙐  𝘽𝙐𝙄𝙇𝘿𝙋𝘼𝘾𝙆𝙎彡
+𝗛𝗘𝗥𝗢𝗞𝗨 𝗕𝗨𝗜𝗟𝗗𝗣𝗔𝗖𝗞𝗦.
                                
-  ```bash
+ ```bash
 heroku/nodejs
 ```
 ```bash
