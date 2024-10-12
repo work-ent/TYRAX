@@ -12,6 +12,7 @@
 
 # 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗦𝗘𝗧𝗨𝗣
 1.彡 𝙔𝙊𝙐 𝙈𝙐𝙎𝙏 𝙁𝙊𝙍𝙆 𝙏𝙃𝙄𝙎 𝙍𝙀𝙋𝙊 𝘽𝙀𝙁𝙊𝙍𝙀 𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 彡
+
 <a href="https://github.com/Kingdragony/TYRAX/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 2.彡 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗘 𝗣𝗔𝗜𝗥𝗜𝗡𝗚 𝗖𝗢𝗗𝗘 彡
