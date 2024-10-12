@@ -7,22 +7,10 @@
 - [`BOT WHATSAPP GROUP`](https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH)
 - [`❚❚❚BOT WHATSAPP Channel❚❚❚`](https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q)
 
+1.<a href="https://github.com/Kingdragony/TYRAX/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
-
-# 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗦𝗘𝗧𝗨𝗣
-1.彡 𝙔𝙊𝙐 𝙈𝙐𝙎𝙏 𝙁𝙊𝙍𝙆 𝙏𝙃𝙄𝙎 𝙍𝙀𝙋𝙊 𝘽𝙀𝙁𝙊𝙍𝙀 𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 彡
-
-<a href="https://github.com/Kingdragony/TYRAX/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
-
-2.彡 𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗘 𝗣𝗔𝗜𝗥𝗜𝗡𝗚 𝗖𝗢𝗗𝗘 彡
-
-[`𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍-𝐓𝐈𝐆𝐄𝐑 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://tigercodes-d2affec7cdbf.herokuapp.com/pair)
-    
-
-.[`𝐍𝐄𝐖 𝐏𝐀𝐈𝐑𝐈𝐍𝐆 𝐂𝐎𝐃𝐄`](https://tigercodes-d2affec7cdbf.herokuapp.com/pair).
-
-  
+2. <a href="https://tigercodes-d2affec7cdbf.herokuapp.com/pair"><img title="PAIRING CODE" src="https://img.shields.io/badge/PAIR CODE-h?color=black&style=for-the-badge&logo=stacklike"></a>    
   
 3.彡𝙃𝙀𝙍𝙊𝙆𝙐  𝘽𝙐𝙄𝙇𝘿𝙋𝘼𝘾𝙆𝙎彡
                                
