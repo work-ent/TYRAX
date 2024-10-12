@@ -41,14 +41,14 @@ global.titulowm2 = `[❗] 𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍`
 global.igfg = '𝐀𝐑𝐋𝐎𝐃𝐑𝐀𝐆𝐎𝐍';
 global.wait = '[🪀] 𝐓𝐘𝐑𝐀𝐗𝐄𝐒 𝐈𝐒 𝐋𝐎𝐀𝐃𝐈𝐍𝐆...*';
 
-global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
-global.imagen2 = fs.readFileSync('./src/assets/images/menu/languages/pt/menu.png');
-global.imagen3 = fs.readFileSync('./src/assets/images/menu/languages/fr/menu.png')
-global.imagen4 = fs.readFileSync('./src/assets/images/menu/languages/en/menu.png')
-global.imagen5 = fs.readFileSync('./src/assets/images/menu/languages/ru/menu.png')
-global.imagen6 = fs.readFileSync('./1726360960951.jpg');
-global.imagen7 = fs.readFileSync('./1725920507318.jpg');
-global.imagen8 = fs.readFileSync('./1723827340548.jpg');
+global.imagen1 = fs.readFileSync('./src/assets/fonts/images (1).jpeg');
+global.imagen2 = fs.readFileSync('./src/assets/fonts/images (2).jpeg');
+global.imagen3 = fs.readFileSync('./src/assets/fonts/images (3).jpeg')
+global.imagen4 = fs.readFileSync('./src/assets/fonts/images (4).jpeg')
+global.imagen5 = fs.readFileSync('./src/assets/fonts/images.jpeg')
+global.imagen6 = fs.readFileSync('./src/assets/fonts/images (1).jpeg');
+global.imagen7 = fs.readFileSync('./src/assets/fonts/images (2).jpeg');
+global.imagen8 = fs.readFileSync('./src/assets/fonts/images (3).jpeg');
 global.mods = [];
 
 //* *******Tiempo***************
