@@ -2,10 +2,9 @@
 
 
 
-##  彡𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣&𝗖𝗛𝗔𝗡𝗡𝗘𝗟
+##  彡𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗖𝗛𝗔𝗡𝗡𝗘𝗟
 
-- [`BOT WHATSAPP GROUP`](https://chat.whatsapp.com/I5xIShFtrk43tfaWEmppNH)
-- [`❚❚❚BOT WHATSAPP Channel❚❚❚`](https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q)
+<a href="https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q"><img title="SUPPORT CHANNEL" src="https://img.shields.io/badge/SUPPORT CHANNEL-h?color=black&style=for-the-badge&logo=stacklike"></a>
 
 1.<a href="https://github.com/Kingdragony/TYRAX/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
