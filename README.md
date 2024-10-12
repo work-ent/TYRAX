@@ -1,9 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=600&pause=600&color=BBFFFB&random=false&width=435&lines=+Hi++%E1%95%95(+%D5%9E+%E1%97%9C+%D5%9E+)%E1%95%97+𝗜'𝗠+彡𝙏𝙔𝙍𝘼𝙓𝙀𝙎彡𝘼𝙉𝙏𝙄𝘽𝙐𝙂彡............+;A+Multi-fuctional+𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣+𝗕𝗢𝗧;+++++𝗕𝗬+𝗧𝗛𝗘𝗘+𝗗𝗥𝗔𝗚𝗢𝗡" alt="Typing SVG" /></a>  
 
-
-
-##  彡𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗖𝗛𝗔𝗡𝗡𝗘𝗟
-
 <a href="https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q"><img title="SUPPORT CHANNEL" src="https://img.shields.io/badge/SUPPORT CHANNEL-h?color=black&style=for-the-badge&logo=stacklike"></a>
 
 1.<a href="https://github.com/Kingdragony/TYRAX/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
