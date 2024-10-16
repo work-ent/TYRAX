@@ -20,7 +20,7 @@ export async function all(m) {
     ) {
     this.sendButton(m.chat, `*WELCOME ITS ME JUST REPLYING*      
     morning or evening @${m.sender.split('@')[0]} 
-    I May Be Offline Or I May Be Slow To Respond 😇\n\n\n> click the buttons to see me`.trim(), igfg, null, [['OWNER HELP', '.mrcs'],['GET TEXT', '.repo']] , m, { mentions: [m.sender] })
+    Hi, 👋 am TYRAXES📡 AI CHAT BUDDY 🖥️\n\n\n> click the buttons to see me`.trim(), igfg, null, [['OWNER HELP', '.mrcs'],['GET TEXT', '.repo']] , m, { mentions: [m.sender] })
     m.react('🤫')
   }
 
