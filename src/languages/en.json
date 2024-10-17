@@ -3827,7 +3827,7 @@
             "texto5": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] The group description has been modified.*",
             "texto6": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] The group name has been modified.*",
             "texto7": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] The group profile picture has been changed.*",
-            "texto8": "*[ 🪀 𝐀𝐋𝐄𝐑𝐓 🪀 ] The group invite link has been reset.*"
+            "texto8": "*Number :* @${participant.split`@`[0]} Deleted message.*"
         },
         "deleteUpdate": {
             "texto1": [
